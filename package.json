@@ -1,0 +1,23 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "Deployment of node-app into ECS (dockerized)",
+  "main": "web_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindhuv900/node-app.git"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sindhuv900/node-app/issues"
+  },
+  "homepage": "https://github.com/sindhuv900/node-app#readme"
+}
