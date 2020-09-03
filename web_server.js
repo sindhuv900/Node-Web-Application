@@ -9,5 +9,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Node Version :${process.version}`, `Hostname: ${os.hostname}`);
+  console.log(`Node Version :${process.version}`,'\n',`Hostname: ${os.hostname}`);
 });
