@@ -18,3 +18,9 @@ Deploying the dockerized application on ECS:
 - ECS container created with a public IP/DNS. 
 - Accessing the web application directly through the public IP:port number of ECS Instance. 
 
+In order to access this webUI:
+- Run the following public IP and port number in your browser. 
+- Link: http://35.182.104.0:3000/
+
+In order to access the AWS Account:
+-
